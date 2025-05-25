@@ -13,7 +13,7 @@ Aplikacija za pregled i pretraživanje TV serija, glumaca i epizoda s mogućnoš
 ## Upute za lokalno pokretanje
 1. Klonirajte repozitorij:
    ```bash
-   git clone <URL_VAŠEG_REPOZITORIJA>
+   git clone https://github.com/gaunterOdimm24/IFDb3.git
    cd IFDB2-main
    ```
 2. Instalirajte ovisnosti:
